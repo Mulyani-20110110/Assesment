@@ -1,0 +1,12 @@
+Tutorial Membuka WEB Data Kampus :
+
+1. Buka File Dan Jalankan Di Laravel 8
+2. Lakukan Import Database yang sudah tersedia di file atau bisa melakukan php artisan migrate
+2. Lakukan PHP Artisan Serve
+3. Setelah itu Follow Link "http://127.0.0.1:8000"
+4. Klik LogIn dan Lakukan Registrasi
+5. Setelah Registrasi Berhasil, LogIn menggunakan akun yang sudah di register
+6. Setelah LogIn Berhasil, akan diarahkan kehalaman Home
+7. Buka Dashboard dibagian Kanan Atas
+8. Buka Data Untuk Membuat,Melihat Dan Mengedit
+9. LogOut dibagian Kanan Atas
